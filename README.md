@@ -1,2 +1,1 @@
-My first readme
-Updated as per Q4's request
+### This file is mandatory in projects
